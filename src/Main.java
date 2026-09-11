@@ -1,6 +1,6 @@
 void main() {
     Queue queue = new Queue();
-    queue.isPriorityQueue = true; // Se activa el modo de prioridad
+    queue.isPriorityQueue = true;
 
     System.out.println("isEmpty: " + queue.isEmpty());
 
